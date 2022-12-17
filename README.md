@@ -4,7 +4,5 @@ I'm a founder of [WideFix](https://widefix.com/) custom software development com
 
 Below you see stats of my contribution to these projects, including private repositories of the companies we help.
 
-[![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ka8725)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka8725&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+| <a href="https://github.com/ka8725/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ka8725&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andrei Kaleshka's github stats" /></a> | <a href="https://github.com/ka8725/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka8725&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
