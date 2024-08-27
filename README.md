@@ -7,5 +7,3 @@
 ✅ I'm deeply passionate about fostering clean and **simple** software architecture, optimizing code performance, enhancing readability, embracing simplicity, and ensuring maintainability. Before starting any project, I thoroughly analyze its purpose and strategize the most efficient execution. This approach allows me to build cost-effective applications that deliver exceptional results to businesses.
 
 ❗ Need help with Ruby on Rails app maintenance? [Schedule a call](https://calendly.com/andrei-kaleshka/30min)
-
-![](https://komarev.com/ghpvc/?username=ka8725)
