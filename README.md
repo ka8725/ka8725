@@ -1,4 +1,4 @@
-✅ Active member of the Toptal community - the **top 3% software talents** company
+✅ [Active member of the Toptal community](https://www.toptal.com/resume/andrey-koleshko) - the **top 3% software talents** company
 
 ✅ Problem solver who enjoys making things as simple as possible.
 
