@@ -1,9 +1,20 @@
-✅ [Member of the Toptal community](https://www.toptal.com/resume/andrey-koleshko) - the top 3% software talents company.
+# 👋 Hi, I’m Andrei Kaleshka
 
-✅ Problem solver who enjoys making things as simple as possible. See [an example with proof](https://x.com/ka8725/status/1827818448224731223).
+✅ [Toptal Software Engineer](https://www.toptal.com/resume/andrey-koleshko) — part of the top 3% global talent network.
 
-✅ The sole author of a book [Rake Task Management Essentials](https://www.packtpub.com/product/rake-task-management-essentials/9781783280773).
+💡 I’m a **problem solver by heart**, passionate about building elegant, simple solutions to complex challenges.  
+→ [Here’s a real-world example](https://x.com/ka8725/status/1827818448224731223) that speaks for itself.
 
-✅ Founder of [WideFix](https://widefix.com/) - a custom software development company. See [reviews of our clients](https://clutch.co/profile/widefix#reviews). We share some of our work as [open source](https://github.com/widefix). We built [budgetingkid](https://get.budgetingkid.com/) that's also open-sourced and maintained by us.
+📘 **Author of _Rake Task Management Essentials_**  
+Published by Packt, this book dives deep into efficient task automation for Ruby developers.  
+→ [Check it out](https://www.packtpub.com/product/rake-task-management-essentials/9781783280773)
 
-❗ Need help with software development? [Schedule a call](https://calendly.com/andrei-kaleshka/30min)
+🚀 **Founder of [WideFix](https://widefix.com/)** — a software development company
+We craft custom software for startups and enterprises, with a strong focus on clean code and long-term maintainability.  
+→ [See what our clients say](https://clutch.co/profile/widefix#reviews)  
+→ [Explore our open source projects](https://github.com/widefix), including [BudgetingKid](https://get.budgetingkid.com/) — a budgeting app we actively maintain.
+
+---
+
+🛠️ **Need expert help with software development?**  
+→ [Schedule a free consultation](https://calendly.com/andrei-kaleshka/30min)
