@@ -10,6 +10,7 @@ Published by Packt, this book dives deep into efficient task automation for Ruby
 → [Check it out](https://www.packtpub.com/product/rake-task-management-essentials/9781783280773)
 
 🚀 **Founder of [WideFix](https://widefix.com/)** — a software development company
+
 We craft custom software for startups and enterprises, with a strong focus on clean code and long-term maintainability.  
 → [See what our clients say](https://clutch.co/profile/widefix#reviews)  
 → [Explore our open source projects](https://github.com/widefix), including [BudgetingKid](https://get.budgetingkid.com/) — a budgeting app we actively maintain.
