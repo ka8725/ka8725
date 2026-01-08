@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Andrei Kaleshka
 
-✅ [Toptal Software Engineer](https://www.toptal.com/resume/andrey-koleshko) — part of the top 3% global talent network.
+✅ [Toptal Software Engineer](https://www.toptal.com/resume/andrei-kaleshka) — part of the top 3% global talent network.
 
 💡 I’m a **problem solver by heart**, passionate about building elegant, simple solutions to complex challenges.  
 → [Here’s a real-world example](https://x.com/ka8725/status/1827818448224731223) that speaks for itself.
