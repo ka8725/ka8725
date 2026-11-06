@@ -15,7 +15,7 @@ Ruby on Rails and PostgreSQL are my deepest specialties, but **my value is not j
 
 ### Experience beyond client work
 
-- ✅ [Toptal software engineer](https://www.toptal.com/resume/andrei-kaleshka) — member of its selective talent network.
+- ✅ [Toptal software engineer](https://www.toptal.com/resume/andrei-kaleshka) — member of its selective talent network top 3% of freelance talent.
 - 📘 Author of [_Rake Task Management Essentials_](https://www.packtpub.com/product/rake-task-management-essentials/9781783280773), published by Packt.
 - 🧩 Open-source maintainer of [actual_db_schema](https://github.com/widefix/actual_db_schema) and [migration_data](https://github.com/ka8725/migration_data) — Ruby gems with millions of downloads combined.
 - 🚀 Founder of [WideFix](https://widefix.com/) — a small team focused on existing products, maintainability, and meaningful business results. [Client reviews](https://clutch.co/profile/widefix#reviews) · [Open-source projects](https://github.com/widefix)
